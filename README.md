@@ -14,4 +14,4 @@ For frontend we used html and css.
 Integration of all the components.
 Testing and Training our Model to get High Accuracy.
 ## Accomplishments that we're proud of
-Developed a System which can solve Rural problems.
+Developed a System which can solve Rural problems of Health.

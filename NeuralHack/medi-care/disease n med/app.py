@@ -30,7 +30,7 @@ def success(uID):
 # Data Collector Node
 @app.route('/input')
 def input():
-    return render_template('/Users/Vishwajeet/Desktop/HACKATHONS/IVYHACKS/homepage/index.html')
+    return render_template('/Users/Siddharth/Desktop/HACKATHONS/NeuralHack/homepage/index.html')
 
 @app.route('/data_tx', methods = ['POST', 'GET'])
 def data_tx():
